@@ -21,7 +21,7 @@ log_size = 0.0024  # 0.24%
 vol_size = 1200
 dollar_size = 30000000
 
-d1 = date(2023,1,30)
+d1 = date(2023,1,1)
 d2 = date(2023,1,31)
 
 # this will give you a list containing all of the dates
